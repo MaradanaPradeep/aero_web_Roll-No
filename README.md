@@ -1,11 +1,6 @@
 # aero_web_Roll-No
 #                                   Boeing Landing Page clone
 # Project Overview
-This project is a static clone of the Boeing Landing Page built using HTML And CSS.
-It replicates the design and layout of the Boeing homepage whole ensuring responsiveness and clean styling.
-Boeing Landing Page
-
-# Overview
 
 This is a simple landing page for Boeing, designed to showcase their latest aircraft models, company information, and industry reports. The webpage includes navigation links, a hero section, product displays, and a footer.
 
