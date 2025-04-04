@@ -50,10 +50,6 @@ Or clone the repository using Git
 
 2. Open the Project Folder
 
-Go to the extracted or cloned folder:
-
-cd boeing-landing-page
-
 3. Open the index.html File
 
 Option 1: Double-click index.html to open it in a web browser.
@@ -102,3 +98,7 @@ During the development of this project, the following references were helpful:
 4. chat gpt - for queries raised in terminal
 
 5. google images -for background images and logo
+
+#                                    DEMO VIDEO
+A Demo video showing all feautres in this project
+[watch the demo](https://github.com/MaradanaPradeep/aero_web_Roll-No/raw/refs/heads/main/video/WhatsApp%20Video%202025-04-04%20at%2022.05.39_7fc8a574.mp4)
